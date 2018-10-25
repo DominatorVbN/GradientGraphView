@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "GradientGraphView"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "A GradientGraphView control like the UISlider, but in a circular form."
   s.description  = "The knob control is a completely customizable widget that can be used   in any iOS app. It also plays a little victory fanfare."
   s.homepage     = "http://EXAMPLE/GradientGraphView"
