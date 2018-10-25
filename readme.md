@@ -20,7 +20,7 @@ $ gem install cocoapods
 
 > CocoaPods 1.1.0+ is required to build GradientGraphView.
 
-To integrate SnapKit into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate GradientGraphView into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
