@@ -9,12 +9,34 @@ Gradient graph view is a custom view to show analytical data in form of Graph.
 3. swift 4+
 4. Cocopods.
 
-### Installing
-Add below line in your pod file:
+### Installinh
+### CocoaPods
 
-   pod 'GradientGraphView'
+[CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
 
-Run pod install
+```bash
+$ gem install cocoapods
+```
+
+> CocoaPods 1.1.0+ is required to build SnapKit 4.0.0+.
+
+To integrate SnapKit into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+use_frameworks!
+
+target '<Your Target Name>' do
+    pod 'GradientGraphView'
+end
+```
+
+Then, run the following command:
+
+```bash
+$ pod install
+```
 
 ## Usage
 
