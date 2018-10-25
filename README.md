@@ -9,7 +9,7 @@ Gradient graph view is a custom view to show analytical data in form of Graph.
 3. swift 4+
 4. Cocopods.
 
-### Installinh
+## Installing
 ### CocoaPods
 
 [CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
