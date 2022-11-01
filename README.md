@@ -41,7 +41,12 @@ $ pod install
 ## Usage
 
 Drag A UIView into view of your view controller, assign it custom class GraphView to view.
-![](GraphView.gif)
+![](https://github.com/DominatorVbN/GradientGraphView/blob/master/GraphView.gif?raw=true)
+
+App Demo:
+
+![App Example](https://user-images.githubusercontent.com/27673762/199176607-8c1b37ab-1b1d-45ea-af85-62210f320caa.png)
+
 
 
 ## License
